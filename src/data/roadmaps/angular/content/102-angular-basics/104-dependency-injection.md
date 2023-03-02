@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [Understanding Dependency Injection](https://angular.io/guide/dependency-injection)
 - [Dependency Injection in Action](https://angular.io/guide/dependency-injection-in-action)
+- https://youtu.be/G8zXugcYd7o
